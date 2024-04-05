@@ -1,0 +1,8 @@
+[package]
+name = "ptree"
+version = "1.0.0"
+authors = ["Kunihiro Ishiguro <kunihiro@zebra.dev"]
+edition = "2021"
+
+[dependencies]
+ipnet = "2.8.0"
